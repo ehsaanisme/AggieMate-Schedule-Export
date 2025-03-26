@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Schedule Builder Export",
+  "description": "Exports UC Davis Schedule Builder courses as a .ics calendar file.",
+  "version": "2.0",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon16.png",
+    "128": "icon128.png"
+  },
+  "permissions": [],
+  "host_permissions": [
+    "https://my.ucdavis.edu/schedulebuilder/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://my.ucdavis.edu/schedulebuilder/index.cfm?*"],
+      "js": ["inject_button.js"]
+    }
+  ],
+  "action": {
+    "default_title": "Schedule Builder Export"
+  }
+}
