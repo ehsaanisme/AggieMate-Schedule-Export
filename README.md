@@ -14,6 +14,9 @@ Export your UC Davis class schedule — including final exams — straight from 
 ## How it works
 This extension injects a button into UC Davis Schedule Builder. Click it, set the start date of the quarter, hit export — done.
 
-## License
-MIT.  
-Based on original work by [Alex Kramer](https://github.com/amkram/schedule-builder-export) (MIT License).
+## Credits
+
+Based on the original [Schedule Builder Export](https://github.com/ajkramer/schedule-builder-export) by Alex Kramer (MIT Licensed).
+
+Modified and maintained by Ehsaan Mohammed.  
+Added support for final exams, .ics file download, and broader calendar compatibility.
