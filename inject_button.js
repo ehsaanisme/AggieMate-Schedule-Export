@@ -266,7 +266,7 @@ function exportToICS(eventArray) {
 	link.download = "schedule_export.ics";
 	link.click();
 
-	popupWindow.innerHTML = '🎉 <strong style="color:gold">Downloaded <code>schedule_export.ics</code></strong>. You can now import it into <strong>ANY</strong> calendar. <span style="color:#2196F3">Ooooweeeee!</span>';
+	popupWindow.innerHTML = '🎉 <strong style="color:gold">Downloaded <code>schedule_export.ics</code></strong>. You can now import it into <strong>ANY</strong> calendar. <span style="color:#2196F3">Ooooweeeee!</span> <span style="font-size:8px;display:block;margin-top:4px;">© 2025 Ehsaan Mohammed</span>';
 	exported = true;
 }
 
