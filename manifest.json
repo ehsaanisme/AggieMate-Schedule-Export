@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "AggieMate: Schedule Builder Export",
   "description": "Exports UC Davis Schedule Builder courses as a .ics calendar file.",
-  "version": "2.1",
+  "version": "2.2",
   "icons": {
     "16": "icon16.png",
     "48": "icon16.png",
