@@ -3,6 +3,8 @@
 ![Made for UC Davis](https://img.shields.io/badge/made%20for-UC%20Davis-blue)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/19dd22b9-95ac-4771-8352-5fbf9be0ba19" />
+
 Export your UC Davis class schedule — including final exams — straight from Schedule Builder into a clean `.ics` calendar file. No sign-ins, no Google API nonsense. Just click, download, import.
 
 ## Features
